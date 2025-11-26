@@ -1,6 +1,6 @@
 # keylogger
 
-. Keylogger Furtivo (Versão de Log Local)
+Keylogger Furtivo (Versão de Log Local)
 Esta versão foca na furtividade e na persistência dos dados localmente:
 
 Ação: O keylogger monitora e registra cada tecla digitada pelo usuário (incluindo senhas, mensagens e pesquisas) em um arquivo de log secreto ou oculto no próprio sistema comprometido.
